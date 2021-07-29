@@ -21,7 +21,7 @@ return [
     [
         'name' => 'tovar4',
         'description' => 'кот, который проводит время лучше чем ты',
-        'price' => 900,
+        'price' => 1000,
         'img' => 'cat-beach-sea-photo-4.jpg'
     ],
 ];
